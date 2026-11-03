@@ -63,10 +63,13 @@ Set its Status to *In progress*. Read its Book row in **Books** for the human st
 
 ## 8. Store the video
 
-1. Preferred: create a GitHub release tagged `<IdeaID>-<YYYYMMDD>` on the repository with the video and
-   thumbnail attached (`gh release create ...`). Use the release page link.
-2. If that is not possible from the run, attach the video and thumbnail to the run's own conversation and
-   use that conversation as the link. Write which one was used in *Run notes*.
+1. `scripts/store_video.sh <IdeaID>-<YYYYMMDD> out/<IdeaID>_<short_name>.mp4 out/<IdeaID>_thumb.png`
+   It puts the files on their own branch, `video/<IdeaID>-<YYYYMMDD>`, and prints a link for each file.
+   GitHub releases cannot be made from a session, which is why videos live on branches.
+2. Keep each call under about 50 MB. If the video is bigger, re-encode it first:
+   `ffmpeg -i in.mp4 -c:v libx264 -preset veryfast -crf 23 -c:a copy -movflags +faststart out.mp4`
+3. If storing fails, also attach the video and thumbnail to the run's own conversation, and say so in
+   *Run notes*.
 
 ## 9. Log it
 

@@ -17,6 +17,7 @@ Publishing to YouTube and Instagram is done by hand after review.
 | `episodes/` | One file per new video. Start from `episodes/TEMPLATE.py`. |
 | `scripts/setup.sh` | Installs Manim, LaTeX, the Kokoro voice and checks narration works. |
 | `scripts/finish_video.sh` | Brings a rendered video to YouTube loudness (-16 LUFS). |
+| `scripts/store_video.sh` | Stores a finished video on its own `video/...` branch and prints its link. |
 | `scripts/make_episode.py` | Joins several narrated parts with crossfades and exact audio sync. |
 | `NIGHTLY.md` | The step-by-step procedure each nightly run follows. |
 
@@ -38,5 +39,6 @@ Years from 1700 to 1999 are read the way people say them.
 
 ## Rendered videos
 
-Videos are not committed. Finished drafts go to this repository's Releases, one release per video, and the
-link goes in the Log tab of the Sheet.
+Videos are kept off `main` so it stays quick to clone. `scripts/store_video.sh` puts each finished video and
+its thumbnail on a branch of its own, `video/<name>`, and the link goes in the Log tab of the Sheet. Open the
+link on GitHub to play or download the video.
