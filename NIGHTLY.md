@@ -8,7 +8,9 @@ Style Notes). Repository: `sony-alias/science-stories-studio`.
 
 ## 1. Prepare
 
-1. Clone the repository and run `bash scripts/setup.sh`. It must end with `ready`.
+1. Clone the repository and run `bash scripts/setup.sh`. It must end with `ready`. Commit as
+   `sony-alias <sony-alias@users.noreply.github.com>`; GitHub refuses pushes that show a private email.
+   Read **Settings** too.
 2. Read **Style Notes** in full, including *Lessons from your feedback*. These rules win over this file.
 3. Read the **Log**. For every row with a verdict of *Revise* or *Reject* and feedback that is not yet
    reflected in Style Notes, add a short lesson under *Lessons from your feedback*.
@@ -18,7 +20,7 @@ Style Notes). Repository: `sony-alias/science-stories-studio`.
 ## 2. Pick the idea
 
 From **Ideas**, take the row with Status *Queued*, the lowest Priority number, then the lowest Idea ID.
-Set its Status to *In progress*. Read its Book row in **Books** for the human story behind it.
+Set its Status to *In production*. Read its Book row in **Books** for the human story behind it.
 
 ## 3. Research
 
@@ -29,7 +31,7 @@ Set its Status to *In progress*. Read its Book row in **Books** for the human st
 
 ## 4. Write the script
 
-- Length 4 to 8 minutes of narration (roughly 550 to 1,100 words).
+- Length as set in **Settings → Format** (currently 2 to 4 minutes, roughly 300 to 550 words of narration).
 - Shape: a person and a puzzle in the first 20 seconds; the failed or obvious answer; the idea built up
   visually, one step at a time; the payoff; why it matters now; for engineering, one *Try it yourself*
   step a student can do with cheap materials (from the Idea's "Try it yourself" column).
