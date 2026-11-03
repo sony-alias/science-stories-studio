@@ -1,0 +1,10 @@
+media/
+out/
+narration_cache/
+__pycache__/
+kokoro
+ml_voice
+*.mp4
+*.wav
+*.m4a
+*.png
