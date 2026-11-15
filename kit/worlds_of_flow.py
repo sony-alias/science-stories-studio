@@ -60,6 +60,13 @@ PRONOUNCE = {
     "Boole": "bˈuːl",
     "M.I.T.": "ˌɛmˌaɪtˈiː",
     "L.E.D.": "ˌɛlˌiːdˈiː",
+    "Brattain": "bɹˈætən",
+    "Bardeen": "bɑːɹdˈiːn",
+    "Atalla": "ɐtˈælə",
+    "Dawon Kahng": "dˈɑːwɑːn kˈɑːŋ",
+    "N-type": "ˈɛn tˌaɪp",
+    "P-type": "pˈiː tˌaɪp",
+    "N P N": "ˌɛn pˌiː ˈɛn",
     # words spelled the same but said differently by meaning (the voice guesses these wrong)
     "presents a paper": "pɹɪzˈɛnts ɐ pˈeɪpɚ",
     "tears away": "tˈɛɹz ɐwˈeɪ",
