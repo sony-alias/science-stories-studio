@@ -67,6 +67,10 @@ PRONOUNCE = {
     "N-type": "ˈɛn tˌaɪp",
     "P-type": "pˈiː tˌaɪp",
     "N P N": "ˌɛn pˌiː ˈɛn",
+    "F. B. Farquharson": "ˈɛf bˈiː fˈɑːɹkwɚsən",
+    "Farquharson": "fˈɑːɹkwɚsən",
+    "Coatsworth": "kˈoʊtswɜːɹθ",
+    "Tacoma": "təkˈoʊmə",
     # words spelled the same but said differently by meaning (the voice guesses these wrong)
     "presents a paper": "pɹɪzˈɛnts ɐ pˈeɪpɚ",
     "tears away": "tˈɛɹz ɐwˈeɪ",
