@@ -71,6 +71,8 @@ PRONOUNCE = {
     "Farquharson": "fˈɑːɹkwɚsən",
     "Coatsworth": "kˈoʊtswɜːɹθ",
     "Tacoma": "təkˈoʊmə",
+    "Inglis": "ˈɪŋɡəlz",
+    "Farnborough": "fˈɑːɹnbɹə",
     # words spelled the same but said differently by meaning (the voice guesses these wrong)
     "presents a paper": "pɹɪzˈɛnts ɐ pˈeɪpɚ",
     "tears away": "tˈɛɹz ɐwˈeɪ",
