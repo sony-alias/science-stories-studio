@@ -78,6 +78,9 @@ PRONOUNCE = {
     "Poleni": "poʊlˈeɪni",
     "Gaudí": "ɡaʊdˈiː",
     "catenary": "kˈætənˌɛɹi",
+    "Srinivasa": "ʃɹˌiːnɪvˈɑːsə",
+    "Ramanujan's": "ɹɑːmˈɑːnʊdʒənz",
+    "Ramanujan": "ɹɑːmˈɑːnʊdʒən",
     # words spelled the same but said differently by meaning (the voice guesses these wrong)
     "presents a paper": "pɹɪzˈɛnts ɐ pˈeɪpɚ",
     "tears away": "tˈɛɹz ɐwˈeɪ",
