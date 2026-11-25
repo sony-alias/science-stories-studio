@@ -116,6 +116,10 @@ PRONOUNCE = {
     "Close a vortex tube": "klˈoʊz ɐ vˈɔːɹtɛks tˈuːb",
     "laws live on": "lˈɔːz lˈɪv ˌɔn",
     "lives forever": "lˈɪvz fɚɹˈɛvɚ",
+    "has to read them": "hɐz tə ɹˈiːd ðˌɛm",       # I037 feedback: was said as "red"
+    "Diffie-Hellman": "dˈɪfi hˈɛlmən",
+    "Merkle's": "mˈɜːkəlz",
+    "GCHQ": "dʒˌiːsˌiːˌeɪtʃkjˈuː",
 }
 _kokoro = None
 
