@@ -120,6 +120,10 @@ PRONOUNCE = {
     "Diffie-Hellman": "dˈɪfi hˈɛlmən",
     "Merkle's": "mˈɜːkəlz",
     "GCHQ": "dʒˌiːsˌiːˌeɪtʃkjˈuː",
+    "Cloudesley Shovell": "klˈaʊdzli ʃˈʌvəl",
+    "Gemma Frisius": "ɡˈɛmə fɹˈiːziəs",
+    "Gemma": "ɡˈɛmə",
+    "Isles of Scilly": "ˈaɪlz ʌv sˈɪli",
 }
 _kokoro = None
 
