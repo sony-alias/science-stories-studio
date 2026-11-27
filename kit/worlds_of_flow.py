@@ -124,6 +124,12 @@ PRONOUNCE = {
     "Gemma Frisius": "ɡˈɛmə fɹˈiːziəs",
     "Gemma": "ɡˈɛmə",
     "Isles of Scilly": "ˈaɪlz ʌv sˈɪli",
+    "Feynman's": "fˈaɪnmənz",
+    "Feynman": "fˈaɪnmən",
+    "Boisjoly": "bˈoʊʒəleɪ",
+    "Thiokol": "θˈaɪəkɔːl",
+    "O-rings": "ˈoʊ ɹˌɪŋz",
+    "O-ring": "ˈoʊ ɹˌɪŋ",
 }
 _kokoro = None
 
