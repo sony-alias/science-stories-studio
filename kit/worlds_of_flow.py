@@ -130,6 +130,14 @@ PRONOUNCE = {
     "Thiokol": "θˈaɪəkɔːl",
     "O-rings": "ˈoʊ ɹˌɪŋz",
     "O-ring": "ˈoʊ ɹˌɪŋ",
+    "Planck's": "plˈɑːŋks",
+    "Planck": "plˈɑːŋk",
+    "Kurlbaum": "kˈʊɹlbaʊm",
+    "Rubens": "ɹˈuːbənz",
+    "Wien's": "vˈiːnz",
+    "Wien": "vˈiːn",
+    "Boltzmann": "bˈoʊltsmɑːn",
+    "times nu": "tˈaɪmz nˈuː",
 }
 _kokoro = None
 
